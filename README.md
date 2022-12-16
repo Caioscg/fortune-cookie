@@ -36,7 +36,7 @@ This project was developed with the following technologies:
 
 ## 🌐 Site
 
-You can check the project with this link: https://guessing-game-hazel.vercel.app
+You can check the project with this link: https://fortune-cookie-psi.vercel.app
 
 ## :memo: License
 
